@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge-bajana/advent-of-code-21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge-bajana/advent-of-code-21/issues"
+  },
+  "homepage": "https://github.com/jorge-bajana/advent-of-code-21#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
